@@ -14,9 +14,9 @@ combined: list = list(zip(food_items, costs, emp_codes)) # Returns a list of tup
 
 # Display the result onto the screen
 print("Sales report")
-print("=" * 30) # Add 30 symbols =
+print("=" * 30) # Add 30 symbols = for better formatting
 print("Food Items Cost(Rub) Emp Code")
-print("-" * 30) # Add 30 symbols -
+print("-" * 30) # Add 30 symbols - for better formatting
 
 # Iterate over the list of tuples to display the results using the for loop
 for food_items, costs, emp_codes in combined:
