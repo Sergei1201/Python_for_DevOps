@@ -1,4 +1,4 @@
-# Program that creates three lists, combines them together using zip(), and display the output on the screen
+# Program that creates three lists, combines them together using zip(), and displays the output on the screen
 
 # Create list 1: food items
 food_items: str = ["Soup", "Pizza", "Salad", "Ice Cream", "Bread", "Sausages", "Dessert", "Juice", "Beer", "Wine"]
