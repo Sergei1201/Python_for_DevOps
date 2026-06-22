@@ -1,4 +1,4 @@
-# Lists, loops
+# Loops
 
 # Task 1. Counting the number of iterations
 n = int(input("Enter a number: "))
