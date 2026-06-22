@@ -14,7 +14,7 @@ for day in days_of_week:
     sales_list.append(sale)
 
  # Total
-total: sum = sum(sales_list)
+total: float = sum(sales_list)
 print(f"The total sales for the whole week: {total}")
 
 # 4. Sort and print the results
