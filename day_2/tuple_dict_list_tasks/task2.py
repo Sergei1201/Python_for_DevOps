@@ -25,7 +25,7 @@ unique_ips: list = list(set(filtered))
 # Test the output
 print(f"Unique list of IPs: {unique_ips}")
 
-# Sort the unique list of IPs in the ascend order (the sorted function returns a new list and does not modified the original one)
+# Sort the unique list of IPs in the ascend order (the sorted function returns a new list and does not modify the original one)
 sorted_list_of_ips: list = sorted(unique_ips)
 
 # Test the output
