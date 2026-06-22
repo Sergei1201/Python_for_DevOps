@@ -18,6 +18,8 @@ print(f"The maximum number is {max}")
 
 # Task 2. Leap year. Design an algorithm to find out if a year is the leap year. Apply the algorithm using several options: 1) if-else conditional 2) elif conditional 3) with the if operator 4) with a special function of the calendar module
 
+# ALGORITHM: a leap year is divisible by 400 or divisible by 4 but not 100
+
 import calendar
 
 # Ask the user to enter the year
