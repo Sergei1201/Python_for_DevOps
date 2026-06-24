@@ -1,0 +1,5 @@
+Beautiful is better than ugly
+Complex is worse than simple
+Complex is better than complicated
+Explicit is better than implicit
+I love Python, also I love JavaScript, PHP and C/C++
