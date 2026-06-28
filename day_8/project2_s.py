@@ -48,7 +48,7 @@ try:
         file.write(output_receving)
 
     # Show the user that info has been written to a file
-    print(f"The configuration has been written to {file}")
+    print(f"The configuration has been written to {fname}")
 
     # After we're done, close the connection
     ssh_client.close()
