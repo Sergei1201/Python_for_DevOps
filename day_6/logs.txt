@@ -1,0 +1,45 @@
+2026-06-28 15:08:13 - ERROR - Can't copy data1.csv due to the error name 'output' is not defined
+2026-06-28 15:08:13 - ERROR - Can't copy data2.csv due to the error name 'output' is not defined
+2026-06-28 15:08:13 - ERROR - Can't copy data3.csv due to the error name 'output' is not defined
+2026-06-28 15:08:13 - ERROR - Can't copy data4.csv due to the error name 'output' is not defined
+2026-06-28 15:08:13 - ERROR - Can't copy data5.csv due to the error name 'output' is not defined
+2026-06-28 15:08:13 - ERROR - Can't copy data6.csv due to the error name 'output' is not defined
+2026-06-28 15:08:13 - ERROR - Can't copy data7.csv due to the error name 'output' is not defined
+2026-06-28 15:08:13 - ERROR - data99.csv has not been found
+2026-06-28 15:08:13 - ERROR - Can't copy data10.csv due to the error name 'output' is not defined
+2026-06-28 15:08:28 - ERROR - Can't copy data1.csv due to the error name 'output' is not defined
+2026-06-28 15:08:28 - ERROR - Can't copy data2.csv due to the error name 'output' is not defined
+2026-06-28 15:08:28 - ERROR - Can't copy data3.csv due to the error name 'output' is not defined
+2026-06-28 15:08:28 - ERROR - Can't copy data4.csv due to the error name 'output' is not defined
+2026-06-28 15:08:28 - ERROR - Can't copy data5.csv due to the error name 'output' is not defined
+2026-06-28 15:08:28 - ERROR - Can't copy data6.csv due to the error name 'output' is not defined
+2026-06-28 15:08:28 - ERROR - Can't copy data7.csv due to the error name 'output' is not defined
+2026-06-28 15:08:28 - ERROR - data99.csv has not been found
+2026-06-28 15:08:28 - ERROR - Can't copy data10.csv due to the error name 'output' is not defined
+2026-06-28 15:10:11 - ERROR - Can't copy data1.csv due to the error name 'output' is not defined
+2026-06-28 15:10:11 - ERROR - Can't copy data2.csv due to the error name 'output' is not defined
+2026-06-28 15:10:11 - ERROR - Can't copy data3.csv due to the error name 'output' is not defined
+2026-06-28 15:10:11 - ERROR - Can't copy data4.csv due to the error name 'output' is not defined
+2026-06-28 15:10:11 - ERROR - Can't copy data5.csv due to the error name 'output' is not defined
+2026-06-28 15:10:11 - ERROR - Can't copy data6.csv due to the error name 'output' is not defined
+2026-06-28 15:10:11 - ERROR - Can't copy data7.csv due to the error name 'output' is not defined
+2026-06-28 15:10:11 - ERROR - data99.csv has not been found
+2026-06-28 15:10:11 - ERROR - Can't copy data10.csv due to the error name 'output' is not defined
+2026-06-28 15:10:51 - ERROR - Can't copy data1.csv due to the error name 'output' is not defined
+2026-06-28 15:10:51 - ERROR - Can't copy data2.csv due to the error name 'output' is not defined
+2026-06-28 15:10:51 - ERROR - Can't copy data3.csv due to the error name 'output' is not defined
+2026-06-28 15:10:51 - ERROR - Can't copy data4.csv due to the error name 'output' is not defined
+2026-06-28 15:10:51 - ERROR - Can't copy data5.csv due to the error name 'output' is not defined
+2026-06-28 15:10:51 - ERROR - Can't copy data6.csv due to the error name 'output' is not defined
+2026-06-28 15:10:51 - ERROR - Can't copy data7.csv due to the error name 'output' is not defined
+2026-06-28 15:10:51 - ERROR - data99.csv has not been found
+2026-06-28 15:10:51 - ERROR - Can't copy data10.csv due to the error name 'output' is not defined
+2026-06-28 15:12:25 - INFO - Copied 'data1.csv' to 'output_files/20260628_15121782648745_data1.txt' successfully
+2026-06-28 15:12:25 - INFO - Copied 'data2.csv' to 'output_files/20260628_15121782648745_data2.txt' successfully
+2026-06-28 15:12:25 - INFO - Copied 'data3.csv' to 'output_files/20260628_15121782648745_data3.txt' successfully
+2026-06-28 15:12:25 - INFO - Copied 'data4.csv' to 'output_files/20260628_15121782648745_data4.txt' successfully
+2026-06-28 15:12:25 - INFO - Copied 'data5.csv' to 'output_files/20260628_15121782648745_data5.txt' successfully
+2026-06-28 15:12:25 - INFO - Copied 'data6.csv' to 'output_files/20260628_15121782648745_data6.txt' successfully
+2026-06-28 15:12:25 - INFO - Copied 'data7.csv' to 'output_files/20260628_15121782648745_data7.txt' successfully
+2026-06-28 15:12:25 - ERROR - data99.csv has not been found
+2026-06-28 15:12:25 - INFO - Copied 'data10.csv' to 'output_files/20260628_15121782648745_data10.txt' successfully
