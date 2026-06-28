@@ -1,7 +1,7 @@
 # Script for creating a function which builds a query string from any number of arguments and sorts them alphabetically
 
 # Function that creates a query string (using keyword arguments kwargs)
-def query_string(**kwargs) -> str:
+def query_string(**kwargs: dict[str, str]) -> str:
     return '&'.join(f"{k}={v}" for k, v in sorted(kwargs.items())) # Capture arguments as a dictionary, sort key-value pairs alphabetically by the keys, concatenate items with join function using & symbol
 
 # Input
